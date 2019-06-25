@@ -1,0 +1,2 @@
+# navnegenerator
+Norwegian name generator
